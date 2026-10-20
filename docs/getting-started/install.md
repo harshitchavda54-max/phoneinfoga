@@ -101,7 +101,7 @@ docker-compose run --rm phoneinfoga --help
 docker-compose up -d
 ```
 
-##### Disable web client
+##### Disable web client                                                                             
 
 Edit `docker-compose.yml` and add the `--no-client` option
 
